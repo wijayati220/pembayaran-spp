@@ -1,0 +1,16 @@
+Akun Untuk Login
+
+Level Admin
+
+    email : admin@spp.com
+    password : admin
+
+Level Petugas
+
+    email : petugas@spp.com
+    password : petugas
+
+Level Siswa
+
+    NISN : 123456789876
+    Nama : siswa
