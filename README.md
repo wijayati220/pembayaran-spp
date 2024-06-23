@@ -134,6 +134,17 @@ Level Siswa
  <apan><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/12.PNG" width="300"></span>
 </p>
 
+
+Cara menginstal applikasi pembayaran spp
+-Klik icon code pada halaman link github,kemudian pilih download zip
+![Screenshot 2024-06-23 110306](https://github.com/wijayati220/pembayaran-spp/assets/172412195/fa953a66-2216-40a4-a07e-3b4d318b1e83)
+
+-Setelah selesai ter download, buka file zip nya
+![Screenshot 2024-06-23 110427](https://github.com/wijayati220/pembayaran-spp/assets/172412195/ccb71f31-a9df-4b7a-92a4-9b03c50e3def)
+
+-Kemudian pada file zip yang sudah di download, klik kanan pilik Extract all,setelah itu letakkan file sesuai directorinya
+![Screenshot 2024-06-23 110458](https://github.com/wijayati220/pembayaran-spp/assets/172412195/66a68274-a909-45b9-8b8e-1d5fcfd61115)
+
 ## Penutup
 
 Semoga bermanfaat, dan dapat menambah wawasan kalian.
